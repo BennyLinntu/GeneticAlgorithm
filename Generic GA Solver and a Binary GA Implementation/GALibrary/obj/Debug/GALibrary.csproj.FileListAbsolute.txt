@@ -1,0 +1,11 @@
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\test\GA\GALibrary\GALibrary\bin\Debug\GALibrary.dll
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\test\GA\GALibrary\GALibrary\bin\Debug\GALibrary.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\test\GA\GALibrary\GALibrary\obj\Debug\GALibrary.csproj.CoreCompileInputs.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\test\GA\GALibrary\GALibrary\obj\Debug\GALibrary.dll
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\test\GA\GALibrary\GALibrary\obj\Debug\GALibrary.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week7\R10546039YDLINAss07Solution\GALibrary\bin\Debug\GALibrary.dll
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week7\R10546039YDLINAss07Solution\GALibrary\bin\Debug\GALibrary.pdb
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week7\R10546039YDLINAss07Solution\GALibrary\obj\Debug\GALibrary.csproj.AssemblyReference.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week7\R10546039YDLINAss07Solution\GALibrary\obj\Debug\GALibrary.csproj.CoreCompileInputs.cache
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week7\R10546039YDLINAss07Solution\GALibrary\obj\Debug\GALibrary.dll
+C:\Users\Benny\System File\Desktop\NTU\Second Year, First Semester\柔性演算法\Homework\week7\R10546039YDLINAss07Solution\GALibrary\obj\Debug\GALibrary.pdb
